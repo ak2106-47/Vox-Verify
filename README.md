@@ -57,7 +57,7 @@ The dataset is derived from the **LibriSeVoc** corpus, which includes real human
 📚 Acknowledgements
 * [LibriSeVoc](https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view) Dataset for providing audio samples.
 * [PyTorch](https://pytorch.org/) and Torchaudio for efficient deep learning and audio processing capabilities.
-* [Download](https://github.com/ak2106-47/Vox-Verify/releases/download/version.0.0.1/Vox-Verify.7z) pre-trained model
+* [Wav2Vec2](https://huggingface.co/facebook/wav2vec2-base) pre-trained model
 
   ## 🔧 Setup Instructions
 
