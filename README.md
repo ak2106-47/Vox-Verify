@@ -27,7 +27,7 @@ This project provides an end-to-end solution for classifying audio into **human*
 ## DEMO
 ![Vox-Verify demo](logs/demo.gif)
 
-If you find this project helpful or inspiring, please consider giving it a star 🌟 on GitHub! Your support motivates us to keep improving and sharing our work with the community. 😊
+If you find this project helpful or inspiring, please consider giving it a star 🌟 on GitHub! Your support motivates me to keep improving and sharing my work with the community. 
 
 ## Dataset
 
